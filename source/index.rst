@@ -10,6 +10,8 @@ Welcome to Sphinx Explained's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+basic_formatting
+
 
 
 Indices and tables
