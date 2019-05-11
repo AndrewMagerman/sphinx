@@ -11,6 +11,7 @@ Welcome to Sphinx Explained's documentation!
    :caption: Contents:
 
    basic_formatting
+   autobuild
 
 
 
