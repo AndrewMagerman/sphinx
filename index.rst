@@ -1,5 +1,5 @@
 .. Sphinx Explained documentation master file, created by
-   sphinx-quickstart on Fri May 10 22:51:11 2019.
+   sphinx-quickstart on Sat May 11 11:02:47 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -10,7 +10,7 @@ Welcome to Sphinx Explained's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-basic_formatting
+   basic_formatting
 
 
 
